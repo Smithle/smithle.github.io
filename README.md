@@ -1,5 +1,5 @@
 # smithle.github.io
 
 Hi,
-  My name is Levi Smith.
+  my name is Levi Smith.
   
